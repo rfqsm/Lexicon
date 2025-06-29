@@ -328,7 +328,7 @@ pcarny,pacarnya
 kri,kiri
 knpa,kenapa
 pda,pada
-cmn,cuman
+cmn,hanya
 gara2,gara-gara
 garuk2,garuk-garuk
 tembokk,tembok
@@ -478,7 +478,7 @@ diluangin,diluangkan
 yaa,ya
 makasih,terima kasih
 jga,juga
-mimin,admin
+mimin,administrator
 istimewaaa,istimewa
 blom,belum
 sempet,sempat
@@ -1260,7 +1260,7 @@ nyangkaa,menyangka
 hasilnyaaa,hasilnya
 bangetttt,sekali
 dahhhh,dah
-cmn,cuman
+cmn,hanya
 mudah2,mudah-mudah
 bisaa,bisa
 jugaakk,juga
@@ -2512,7 +2512,7 @@ bkn,bukan
 sya,saya
 blg,bilang
 bhwa,bahwa
-mimin,admin
+mimin,administrator
 indo,indonesia
 dr,dari
 br,baru
@@ -5750,7 +5750,7 @@ ajah,saja
 gara2,gara-gara
 perna,pernah
 d,di
-cmn,cuman
+cmn,hanya
 grgr,gara-gara
 g,tidak
 jari2,jari-jari
@@ -6997,7 +6997,7 @@ nyusahin,menyusahkan
 emg,memang
 yg,yang
 nyusahin,menyusahkan
-cmn,cuman
+cmn,hanya
 malu2in,malu-malui
 indo,indonesia
 aja,saja
@@ -7030,7 +7030,7 @@ emg,memang
 klo,kalau
 yg,yang
 dibnggain,dibanggakan
-cmn,cuman
+cmn,hanya
 kyk,seperti
 gitu,begitu
 aja,saja
@@ -7458,7 +7458,7 @@ indonesiaah,indonesia
 bet,sekali
 udh,sudah
 iyaa,iya
-cumn,cuman
+cumn,hanya
 kasi,kasih
 aja,saja
 sm,sama
@@ -10152,7 +10152,7 @@ yg,yang
 banyak2,banyak-banyak
 mba,mbak
 bisax,bisanya
-cmn,cuman
+cmn,hanya
 nyerocos,mencerocos
 aja,saja
 emang,memang
@@ -10160,7 +10160,7 @@ uda,sudah
 bener,benar
 ngapain,mengapai
 klo,kalau
-cmn,cuman
+cmn,hanya
 mw,mau
 ngatain,mengatai
 yg,yang
@@ -11445,7 +11445,7 @@ wahh,wah
 bngett,sekali
 emng,memang
 koq,kok
-cmn,cuman
+cmn,hanya
 aj,saja
 inget,ingat
 aja,saja
@@ -12376,7 +12376,7 @@ g,tidak
 ak,aku
 kek,seperti
 mansetan,bermanset
-cmn,cuman
+cmn,hanya
 keliatan,kelihatan
 bgt,sekali
 yg,yang
@@ -13873,7 +13873,7 @@ utk,untuk
 nyimpen,menyimpan
 ngarsipin,mengarsipkan
 emang,memang
-cman,cuman
+cman,hanya
 ehh,eh
 nyaranin,menyarankan
 pingin,ingin
@@ -15023,7 +15023,7 @@ taro,taruh
 kenapaaaa,kenapa
 lemooott,lambat
 apliasi,aplikasi
-adminnya,admin
+adminnya,administrator
 amburadul,berantakan
 aktiffnyaa,aktifnya
 aktipkan,aktifkan
@@ -15142,7 +15142,7 @@ kondisika,kondisikan
 full,penuh
 muter,putar
 proma,promo
-cuman,hanya
+hanya,hanya
 kunsomen,konsumen
 esmosi,emosi
 terimakasih,terima kasih
@@ -15154,14 +15154,13 @@ like,suka
 kgk,tidak
 ngajakin,mengajak
 kayak,seperti
-leg,sendat
+leg,lag
 ngeleg,tersendat
 kesini,ke sini
 banget,sekali
 promo,promosi
 promonya,promosi
-bug,galat
-bugnya,galat
+bugnya,bug
 mulu,terus
 hadi,jadi
 doang,saja
@@ -15172,8 +15171,7 @@ bikin,membuat
 provider,penyedia
 providernya,penyedianya
 plis,tolong
-min,admin
-admin,administrator
+min,administrator
 adminy,administratornya
 adminya,administratornya
 ngegame,bermain gim
@@ -15188,7 +15186,7 @@ amng,memang
 rekomen,rekomendasi
 mura,murah
 sagat,sangat
-laggg,sendat
+laggg,lag
 mending,lebih baik
 balikin,kembalikan
 lu,kamu
@@ -15236,3 +15234,88 @@ siput,lambat
 dibenerin,diperbaiki
 keburu,terburu
 terosssss,terus
+ok,oke
+burik,jelek
+buriq,jelek
+toloong,tolong
+regestrasi,registrasi
+tagline,slogan
+masok,masuk
+download,unduh
+taglinenya,slogannya
+donlot,unduh
+downloadnya,unduh
+donlotnya,unduh
+modar,mati
+komplain,keluhan
+jaringanyaaa,jaringan
+tida,tidak
+ruwett,rumit
+signalnya,sinyal
+daritadi,dari tadi
+respon,respons
+uangk,uang
+abistu,habis itu
+coin,koin
+cuma,hanya
+robohin,roboh
+sensiri,sendiri
+jarkarta,jakarta
+komplen,keluhan
+sangan,sangat
+wlpun,walaupun
+ngotak,berpikir
+tlong,tolong
+aplah,apa lah
+gue,aku
+gw,aku
+gwe,aku
+jos,bagus
+lelet,lambat
+meruginkan,merugikan
+lu,kamu
+sekal,sekali
+sinyalllll,sinyal
+anjinggggg,anjing
+mantapbanget,mantap sekali
+njis,najis
+simpel,sederhana
+simple,sederhana
+berattt,berat
+bersahil,berhasil
+samsek,sama sekali
+baikkk,baik
+baikk,baik
+baikkkk,baik
+setting,pengaturan
+seting,pengaturan
+apkikasi,aplikasi
+ngeleg,lag
+ngelleg,lag
+ngelag,lag
+gegara,gara-gara
+worth,layak
+paketttttttt,paket
+lawack,lawak
+ikln,iklan
+ngbag,bug
+mllu,terus
+eman,memang
+minn,administrator
+suia,suka
+device,perangkat
+lemoooooooooooot,lambat
+oklah,oke lah
+rban,ribuan
+tlfn,telpon
+kesukanaku,kesukaan aku
+wort,layak
+mntap,mantap
+makasiiiiii,terima kasih
+bangettty,sekali
+please,tolong
+pls,tolong
+plis,tolong
+siyalnya,sinyal
+teryata,ternyata
+oprator,operator
